@@ -54,5 +54,3 @@ The UI calls `http://localhost:5000/predict`. Keep Flask running.
 ## Retrain
 
 Open the notebook, point the file paths at `Data/`, and run the DeepD2V section. Original training used Google Colab + Drive.
-
-MIT.
