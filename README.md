@@ -1,5 +1,3 @@
-Paste this as `README.md` in **DGA-Detection** (replace the current file).
-
 ```markdown
 # DGA Detection
 
