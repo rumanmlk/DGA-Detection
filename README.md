@@ -1,4 +1,3 @@
-```markdown
 # DGA Detection
 
 Classify domain names as **DGA / malware** vs **benign**. Built during an ML internship (Ebryx): research notebook, saved models, Flask API, and a React UI.
